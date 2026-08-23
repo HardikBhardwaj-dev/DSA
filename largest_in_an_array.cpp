@@ -1,4 +1,4 @@
-# GFG QUESTION
+// GFG QUESTION
 class Solution {
   public:
     int largest(vector<int> &arr) {
