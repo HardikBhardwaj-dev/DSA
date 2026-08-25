@@ -5,7 +5,7 @@ int main(){
     int arr[5];
     int length= 5;
     int target= 3;
-    bool found= false
+    bool found= false;
 
 
     cout<< "Enter the elements in array"<<endl;
@@ -14,9 +14,9 @@ int main(){
     }
 
     for(int i=0;i<length;i++){
-        if target== arr[i]{
+        if (target== arr[i]){
             cout<<"Target found";
-            found=true
+            found=true;
             break;
         }
         
